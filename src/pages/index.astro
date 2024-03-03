@@ -1,0 +1,35 @@
+---
+import Layout from "@/layouts/Layout.astro";
+
+import About from "@/components/Sections/About.astro";
+import Hero from "@/components/Sections/Hero.astro";
+import Projects from "@/components/Sections/Projects.astro";
+import Skills from "@/components/Sections/Skills.astro";
+import Education from "@/components/Sections/Education.astro";
+import Experience from "@/components/Sections/Experience.astro";
+import KeyboardManager from "@/components/KeyboardManager.astro";
+
+import {basics} from "@/CV.json";
+const {name,label} = basics;
+---
+
+<Layout title=`Portafolio de ${name} - ${label}`>
+	<main>
+		<Hero />
+		<About />
+		<Experience />
+		<Education />
+		<Projects />
+		<Skills />
+	</main>
+
+	<KeyboardManager />
+</Layout>
+
+<style>
+	main {
+		padding: 4rem;
+		margin: auto;
+		width: 100%;
+	}
+</style>
