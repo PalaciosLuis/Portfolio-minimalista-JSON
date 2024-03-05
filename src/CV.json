@@ -189,66 +189,36 @@
     ],
     "projects": [
         {
-            "name": "mars.codes",
+            "name": "Vive-rentable.com",
             "isActive": true,
-            "description": "Historia interactiva con retos de programación para viajar a Marte",
+            "description": "Pagina de inversiones en desarrollo, con el fin de ayudar a las personas a invertir su dinero de manera segura y rentable.",
             "highlights": [
-                "Elige tu propia aventura",
+                "Pagina de inversiones",
                 "En desarrollo"
             ],
-            "url": "https://mars.codes"
+            "url": "https://vive-rentable.com/"
         },
         {
-            "name": "AdventJS",
+            "name": "Polos Alex",
             "isActive": true,
-            "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+            "description": "Pagina de catálogo de polos, con el fin de ayudar a las personas a elegir polos de calidad.",
             "highlights": [
-                "+1 millón de visitas",
-                "Multidioma",
-                "JavaScript & TypeScript"
+                "Pagina de catálogo",
+                "En desarrollo",
+                "Astro & Tailwind"
             ],
-            "url": "https://adventjs.dev"
+            "url": "https://polos-alex-web.vercel.app/"
         },
         {
-            "name": "Codember",
+            "name": "Frutimax Trujillo",
             "isActive": true,
-            "description": "Juego interactivo de programación con retos y secretos",
+            "description": "Landing page de servicio de delivery de frutas y verduras, con el fin de ayudar a las personas a comprar frutas y verduras de calidad.",
             "highlights": [
-                "+2000 usuarios activos",
-                "Retos para cualquier lenguaje"
+                "Landing page",
+                "En desarrollo",
+                "Astro & Tailwind"
             ],
-            "url": "https://codember.dev"
-        },
-        {
-            "name": "codi.link",
-            "isActive": true,
-            "description": "Playground de código HTML, CSS y JavaScript para compartir",
-            "highlights": [
-                "100k visitas al mes",
-                "Desarrollado por la comunidad"
-            ],
-            "url": "https://codi.link",
-            "github": "https://github.com/midudev/codi.link"
-        },
-        {
-            "name": "Pruebas Técnicas",
-            "isActive": true,
-            "description": "Lista de pruebas técnicas de empresas para practicar programación",
-            "highlights": [
-                "100% gratuito",
-                "+500 soluciones de la comunidad"
-            ],
-            "url": "https://pruebastecnicas.com",
-            "github": "https://github.com/midudev/pruebas-tecnicas"
-        },
-        {
-            "name": "miduConf",
-            "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-            "highlights": [
-                "+15k tickets repartidos",
-                "+50k espectadores en directo"
-            ],
-            "url": "https://miduconf.com"
-        }
+            "url": "https://proy-frutimax-web.vercel.app/"
+        }      
     ]
 }
