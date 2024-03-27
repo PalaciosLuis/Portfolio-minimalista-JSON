@@ -81,6 +81,16 @@
     ],
     "skills": [
         {
+            "name": "WordPress",
+            "level": "Basic",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "Backend",
+                "CMS"
+            ]
+        },
+        {
             "name": "HTML",
             "level": "Intermediate",
             "keywords": [
@@ -128,7 +138,7 @@
             ]
         },
         {
-            "name": "Node",
+            "name": "NodeJS",
             "level": "Basic",
             "keywords": [
                 "Desarrollo Web",
@@ -139,6 +149,16 @@
         },
         {
             "name": "MySQL",
+            "level": "Intermediate",
+            "keywords": [
+                "Bases de Datos",
+                "SQL",
+                "Almacenamiento de Datos",
+                "Backend"
+            ]
+        },
+        {
+            "name": "SQL Server",
             "level": "Intermediate",
             "keywords": [
                 "Bases de Datos",
@@ -175,6 +195,16 @@
                 "JavaScript Library",
                 "UI"
             ]
+        },
+        {
+            "name": "Java",
+            "level": "Basic",
+            "keywords": [
+                "Desarrollo Backend",
+                "Backend",
+                "Programación",
+                "POO"
+            ]
         }
     ],
     "languages": [
@@ -210,6 +240,17 @@
             "url": "https://polos-alex-web.vercel.app/"
         },
         {
+            "name": "Ecommerce Tecnológico",
+            "isActive": false,
+            "description": "Ecommerce de tecnología, con el fin de ayudar a las personas a comprar tecnología de calidad.",
+            "highlights": [
+                "MVC",
+                ".net framework",
+                "SQL Server"
+            ],
+            "url": "https://github.com/PalaciosLuis/EcommersMVC.net-"
+        },
+        {
             "name": "Frutimax Trujillo",
             "isActive": true,
             "description": "Landing page de servicio de delivery de frutas y verduras, con el fin de ayudar a las personas a comprar frutas y verduras de calidad.",
@@ -219,6 +260,17 @@
                 "Astro & Tailwind"
             ],
             "url": "https://proy-frutimax-web.vercel.app/"
-        }      
+        },
+        {
+            "name": "Replica de página de los Eslands",
+            "isActive": true,
+            "description": "Replica de la página de los Eslands, con el fin de aprender a usar Tailwind css y Astro.",
+            "highlights": [
+                "Landing page",
+                "En desarrollo",
+                "Astro & Tailwind"
+            ],
+            "url": "https://esland-web-astro.vercel.app/"
+        }       
     ]
 }
