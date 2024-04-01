@@ -37,6 +37,16 @@
             "highlights": [
                 "Started the company"
             ]
+        },
+        {
+            "name": "BIG SPIN PERÚ ",
+            "position": "Atención al cliente",
+            "startDate": "2021-03-13",
+            "endDate": "2023-09-30",
+            "summary": "Encargado de Atención al cliente, responsable de caja, cotización del producto, encargado de generar boletas y facturas y brindar ideas para el crecimiento del negocio.",
+            "highlights": [
+                "Started the company"
+            ]
         }
     ],
     "education": [
@@ -49,7 +59,7 @@
             "endDate": "2024-11-13",
             "score": "17",
             "courses": [
-                "Desarrollo de Software"
+                "Computación e Informática"
             ]
         },
         {
@@ -271,6 +281,6 @@
                 "Astro & Tailwind"
             ],
             "url": "https://esland-web-astro.vercel.app/"
-        }       
+        }
     ]
 }
