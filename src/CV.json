@@ -1,7 +1,7 @@
 {
     "basics": {
         "name": "Luis Javier Palacios Sernaque",
-        "label": "Desarrollador Fullstack",
+        "label": "Desarrollador Fullstack y Soporte Técnico",
         "image": "000.png",
         "email": "palaciossernaqueluisjavier@gmail.com",
         "phone": "+51 924792520",
@@ -29,10 +29,20 @@
     },
     "work": [
         {
+            "name": "CONETWORK",
+            "position": "Soporte Técnico",
+            "startDate": "2024-04-01",
+            "endDate": "2024-07-15",
+            "summary": "Encargado de abrir el local y mantener el correcto funcionamiento de los equipos, mantenerlos actualizados, limpios. Implementando nuevos métodos y herramientas de seguridad, Responsable de liderar al equipo de ventas y supervisar su correcto desempeño.",
+            "highlights": [
+                "Started the company"
+            ]
+        },
+        {
             "name": "SOLUCIONES INNOVACIONES INTEGRALES S.A.C",
             "position": "Desarrollador web junior",
             "startDate": "2024-01-02",
-            "endDate": null,
+            "endDate": "2024-03-30",
             "summary": "Encargado de diseñar Landing page atractivas y optimizadas para los distintos tipos de clientes, usando tecnologías clásicas como HTML, Css, JavaScript, pero también nuevas tecnologías como Astro, Tailwind css, logré atraer potenciales clientes , ahorrando tiempo y dinero sin perder calidad.",
             "highlights": [
                 "Started the company"
@@ -243,13 +253,13 @@
         },
         {
             "name": "Vive-rentable.com",
-            "isActive": true,
+            "isActive": false,
             "description": "Pagina de inversiones en desarrollo, con el fin de ayudar a las personas a invertir su dinero de manera segura y rentable.",
             "highlights": [
                 "Pagina de inversiones",
                 "En desarrollo"
             ],
-            "url": "https://vive-rentable.com/"
+            "url": "https://github.com/PalaciosLuis/VIVA-RENTABLE"
         },
         {
             "name": "Replica de página de los Eslands",
