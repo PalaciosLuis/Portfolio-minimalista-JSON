@@ -260,7 +260,7 @@
             ]
         },
         {
-            "name": "React",
+            "name": "Proxmox VE",
             "level": "Basic",
             "keywords": [
                 "Desarrollo Web",
@@ -332,6 +332,19 @@
         },
         {
             "name": "PHP VirtualBox",
+            "isActive": true,
+            "description": "",
+            "highlights": [
+                "Aplicación web",
+                "En desarrollo",
+                "Html",
+                "Css",
+                "JavaScript"
+            ],
+            "url": "https://hub.docker.com/r/jazzdd/phpvirtualbox"
+        },
+        {
+            "name": "Proxmox VE",
             "isActive": true,
             "description": "",
             "highlights": [
