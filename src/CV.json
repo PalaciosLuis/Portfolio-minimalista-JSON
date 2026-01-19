@@ -294,7 +294,7 @@
         {
             "name": "Wazuh",
             "isActive": true,
-            "description": "MonkeyType for programmers es una aplicación web que te permite practicar mecanografía con código de programación.",
+            "description": "",
             "highlights": [
                 "Aplicación web",
                 "En desarrollo",
@@ -307,7 +307,7 @@
         {
             "name": "Zabbix",
             "isActive": true,
-            "description": "MonkeyType for programmers es una aplicación web que te permite practicar mecanografía con código de programación.",
+            "description": "",
             "highlights": [
                 "Aplicación web",
                 "En desarrollo",
@@ -320,7 +320,7 @@
         {
             "name": "Servidor Dominio con Samba 4",
             "isActive": true,
-            "description": "MonkeyType for programmers es una aplicación web que te permite practicar mecanografía con código de programación.",
+            "description": "",
             "highlights": [
                 "Aplicación web",
                 "En desarrollo",
@@ -333,7 +333,7 @@
         {
             "name": "PHP VirtualBox",
             "isActive": true,
-            "description": "MonkeyType for programmers es una aplicación web que te permite practicar mecanografía con código de programación.",
+            "description": "",
             "highlights": [
                 "Aplicación web",
                 "En desarrollo",
