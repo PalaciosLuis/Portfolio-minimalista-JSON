@@ -294,67 +294,79 @@
         {
             "name": "Wazuh",
             "isActive": true,
-            "description": "",
+            "description": "Implementación y configuración de Wazuh en servidor virtual con Debian 13 para monitoreo de seguridad, análisis de logs y gestión de eventos en sistemas Linux, Windows y macOS.",
             "highlights": [
-                "Aplicación web",
-                "En desarrollo",
-                "Html",
-                "Css",
-                "JavaScript"
+                "SIEM / XDR",
+                "Monitoreo de seguridad",
+                "Debian Linux",
+                "Logs y alertas",
+                "Agentes multiplataforma"
             ],
             "url": "https://wazuh.com/"
         },
         {
             "name": "Zabbix",
             "isActive": true,
-            "description": "",
+            "description": "Despliegue y configuración de Zabbix en servidor virtual con Debian 12 para monitoreo de rendimiento, disponibilidad y recursos de sistemas Linux, Windows y macOS.",
             "highlights": [
-                "Aplicación web",
-                "En desarrollo",
-                "Html",
-                "Css",
-                "JavaScript"
+                "Monitoreo de infraestructura",
+                "Alertas y métricas",
+                "Debian Linux",
+                "Agentes Zabbix",
+                "Dashboards"
             ],
             "url": "https://www.zabbix.com/"
         },
         {
-            "name": "Servidor Dominio con Samba 4",
+            "name": "Servidor de Dominio con Samba 4",
             "isActive": true,
-            "description": "",
+            "description": "Implementación de controlador de dominio con Samba 4 (AD DC) para gestión centralizada de usuarios, grupos, políticas y recursos compartidos en entornos Linux y Windows.",
             "highlights": [
-                "Aplicación web",
-                "En desarrollo",
-                "Html",
-                "Css",
-                "JavaScript"
+                "Active Directory",
+                "Samba 4",
+                "Gestión de usuarios",
+                "Autenticación centralizada",
+                "Recursos compartidos"
             ],
             "url": "https://clockworkcomputerip.blogspot.com/2024/03/recurso-compartido-samba-ad-dc.html"
         },
         {
             "name": "PHP VirtualBox",
             "isActive": true,
-            "description": "",
+            "description": "Implementación de PHPVirtualBox para la administración web de entornos VirtualBox, permitiendo la gestión remota de máquinas virtuales desde navegador.",
             "highlights": [
-                "Aplicación web",
-                "En desarrollo",
-                "Html",
-                "Css",
-                "JavaScript"
+                "Virtualización",
+                "Administración web",
+                "VirtualBox",
+                "Linux Server"
             ],
             "url": "https://hub.docker.com/r/jazzdd/phpvirtualbox"
         },
         {
             "name": "Proxmox VE",
             "isActive": true,
-            "description": "",
+            "description": "Administración de entorno de virtualización Proxmox VE para la creación, gestión y monitoreo de máquinas virtuales y contenedores en servidores Linux.",
             "highlights": [
-                "Aplicación web",
-                "En desarrollo",
-                "Html",
-                "Css",
-                "JavaScript"
+                "Virtualización",
+                "KVM",
+                "LXC",
+                "Proxmox VE",
+                "Gestión de recursos"
             ],
-            "url": "https://hub.docker.com/r/jazzdd/phpvirtualbox"
+            "url": "https://www.proxmox.com/"
+        },
+        {
+            "name": "Uptime Kuma",
+            "isActive": true,
+            "description": "Despliegue y configuración de Uptime Kuma para monitoreo de disponibilidad de servicios, con alertas automáticas y visualización del estado en tiempo real.",
+            "highlights": [
+                "Monitoreo de servicios",
+                "Disponibilidad",
+                "Alertas",
+                "Docker",
+                "Linux Server"
+            ],
+            "url": "https://github.com/louislam/uptime-kuma"
         }
     ]
 }
