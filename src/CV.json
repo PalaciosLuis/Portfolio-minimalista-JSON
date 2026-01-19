@@ -1,12 +1,12 @@
 {
     "basics": {
         "name": "Luis Javier Palacios Sernaque",
-        "label": "Desarrollador Fullstack y Soporte Técnico",
+        "label": "SysAdmin",
         "image": "02.png",
         "email": "palaciossernaqueluisjavier@gmail.com",
         "phone": "+51 924792520",
         "url": "https://www.linkedin.com/in/luis-palacios-sernaque/",
-        "summary": "Me considero un profesional altamente capacitado y motivado, con un fuerte compromiso con el aprendizaje continuo y la mejora constante de mis habilidades y conocimientos en mi campo. Con una sólida formación académica y práctica en programación, análisis de datos, diseño de sistemas y tecnologías emergentes, tengo las habilidades y el conocimiento necesarios para abordar de manera efectiva los desafíos técnicos más complejos.",
+        "summary": "Conocimientos en automatización, contenedores y despliegue de servicios. Experiencia administrando servidores, bases de datos y aplicaciones, con interés en buenas prácticas de seguridad, monitoreo y alta disponibilidad.",
         "location": {
             "address": "",
             "postalCode": "08820",
@@ -29,14 +29,12 @@
     },
     "work": [
         {
-            "name": "Salesland Pacifico ",
-            "position": "Administardor de Sistemas",
+            "name": "Salesland Pacifico",
+            "position": "Administrador de Sistemas",
             "startDate": "2024-09-07",
             "endDate": "2026-01-19",
-            "summary": "",
-            "highlights": [
-                "Started the company"
-            ]
+            "summary": "Administración de servidores Linux: configuración, actualización y monitoreo; gestión de servicios (systemd, SSH), usuarios y permisos; automatización con Bash y cron; redes básicas; servicios web (Nginx/Apache), bases de datos (SQL Server, SQLite), backups, análisis de logs y soporte a aplicaciones en producción.",
+            "highlights": []
         },
         {
             "name": "CONETWORK",
@@ -60,6 +58,18 @@
         }
     ],
     "education": [
+        {
+            "institution": "Universidad Peruana de Ciencias Aplicadas",
+            "url": "https://www.upc.edu.pe/",
+            "area": "Ingeniería de Sistemas",
+            "studyType": "Universitario",
+            "startDate": "2025-09-13",
+            "endDate": "2027-11-13",
+            "score": "17",
+            "courses": [
+                "Ingeniería de Sistemas"
+            ]
+        },
         {
             "institution": "Instituto de Educación Superior CIBERTEC SAC",
             "url": "https://www.cibertec.edu.pe/",
@@ -101,7 +111,7 @@
     ],
     "skills": [
         {
-            "name": "WordPress",
+            "name": "GNU/Linux Debian",
             "level": "Basic",
             "keywords": [
                 "Desarrollo Web",
@@ -111,20 +121,83 @@
             ]
         },
         {
-            "name": "HTML",
-            "level": "Intermediate",
-            "keywords": [
-                "Desarrollo Web",
-                "Frontend"
-            ]
-        },
-        {
-            "name": "CSS",
-            "level": "Intermediate",
+            "name": "ISO 27001",
+            "level": "Basic",
             "keywords": [
                 "Desarrollo Web",
                 "Frontend",
-                "Diseño Responsive"
+                "Backend",
+                "CMS"
+            ]
+        },
+        {
+            "name": "Zabbix",
+            "level": "Basic",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "Backend",
+                "CMS"
+            ]
+        },
+        {
+            "name": "Docker",
+            "level": "Basic",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "Backend",
+                "CMS"
+            ]
+        },
+        {
+            "name": "Python",
+            "level": "Basic",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "Backend",
+                "CMS"
+            ]
+        },
+        {
+            "name": "GitLab",
+            "level": "Basic",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "Backend",
+                "CMS"
+            ]
+        },
+        {
+            "name": "PostgreSQL",
+            "level": "Basic",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "Backend",
+                "CMS"
+            ]
+        },
+        {
+            "name": "Windows Server",
+            "level": "Basic",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "Backend",
+                "CMS"
+            ]
+        },
+        {
+            "name": "Samba 4",
+            "level": "Basic",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "Backend",
+                "CMS"
             ]
         },
         {
@@ -135,26 +208,6 @@
                 "Frontend",
                 "Backend",
                 "Fullstack"
-            ]
-        },
-        {
-            "name": "Tailwind",
-            "level": "Basic",
-            "keywords": [
-                "Desarrollo Web",
-                "Frontend",
-                "CSS Framework",
-                "Diseño Responsive"
-            ]
-        },
-        {
-            "name": "TypeScript",
-            "level": "Basic",
-            "keywords": [
-                "Desarrollo Web",
-                "Frontend",
-                "Backend",
-                "JavaScript Superset"
             ]
         },
         {
@@ -239,7 +292,7 @@
     ],
     "projects": [
         {
-            "name": "MonkeyType for programmers",
+            "name": "Wazuh",
             "isActive": true,
             "description": "MonkeyType for programmers es una aplicación web que te permite practicar mecanografía con código de programación.",
             "highlights": [
@@ -249,61 +302,46 @@
                 "Css",
                 "JavaScript"
             ],
-            "url": "https://monkey-type-sand.vercel.app/"
+            "url": "https://wazuh.com/"
         },
         {
-            "name": "Vive-rentable.com",
-            "isActive": false,
-            "description": "Pagina de inversiones en desarrollo, con el fin de ayudar a las personas a invertir su dinero de manera segura y rentable.",
-            "highlights": [
-                "Pagina de inversiones",
-                "En desarrollo"
-            ],
-            "url": "https://github.com/PalaciosLuis/VIVA-RENTABLE"
-        },
-        {
-            "name": "Replica de página de los Eslands",
+            "name": "Zabbix",
             "isActive": true,
-            "description": "Replica de la página de los Eslands, con el fin de aprender a usar Tailwind css y Astro.",
+            "description": "MonkeyType for programmers es una aplicación web que te permite practicar mecanografía con código de programación.",
             "highlights": [
-                "Landing page",
+                "Aplicación web",
                 "En desarrollo",
-                "Astro & Tailwind"
+                "Html",
+                "Css",
+                "JavaScript"
             ],
-            "url": "https://esland-web-astro.vercel.app/"
+            "url": "https://www.zabbix.com/"
         },
         {
-            "name": "Frutimax Trujillo",
+            "name": "Servidor Dominio con Samba 4",
             "isActive": true,
-            "description": "Landing page de servicio de delivery de frutas y verduras, con el fin de ayudar a las personas a comprar frutas y verduras de calidad.",
+            "description": "MonkeyType for programmers es una aplicación web que te permite practicar mecanografía con código de programación.",
             "highlights": [
-                "Landing page",
+                "Aplicación web",
                 "En desarrollo",
-                "Astro & Tailwind"
+                "Html",
+                "Css",
+                "JavaScript"
             ],
-            "url": "https://proy-frutimax-web.vercel.app/"
+            "url": "https://clockworkcomputerip.blogspot.com/2024/03/recurso-compartido-samba-ad-dc.html"
         },
         {
-            "name": "Polos Alex",
+            "name": "PHP VirtualBox",
             "isActive": true,
-            "description": "Pagina de catálogo de polos, con el fin de ayudar a las personas a elegir polos de calidad.",
+            "description": "MonkeyType for programmers es una aplicación web que te permite practicar mecanografía con código de programación.",
             "highlights": [
-                "Pagina de catálogo",
+                "Aplicación web",
                 "En desarrollo",
-                "Astro & Tailwind"
+                "Html",
+                "Css",
+                "JavaScript"
             ],
-            "url": "https://polos-alex-web.vercel.app/"
-        },
-        {
-            "name": "Ecommerce Tecnológico",
-            "isActive": false,
-            "description": "Ecommerce de tecnología, con el fin de ayudar a las personas a comprar tecnología de calidad.",
-            "highlights": [
-                "MVC",
-                ".net framework",
-                "SQL Server"
-            ],
-            "url": "https://github.com/PalaciosLuis/EcommersMVC.net-"
+            "url": "https://hub.docker.com/r/jazzdd/phpvirtualbox"
         }
     ]
 }
