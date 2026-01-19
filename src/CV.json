@@ -2,7 +2,7 @@
     "basics": {
         "name": "Luis Javier Palacios Sernaque",
         "label": "Desarrollador Fullstack y Soporte Técnico",
-        "image": "1.png",
+        "image": "02.png",
         "email": "palaciossernaqueluisjavier@gmail.com",
         "phone": "+51 924792520",
         "url": "https://www.linkedin.com/in/luis-palacios-sernaque/",
@@ -29,6 +29,16 @@
     },
     "work": [
         {
+            "name": "Salesland Pacifico ",
+            "position": "Administardor de Sistemas",
+            "startDate": "2024-09-07",
+            "endDate": "2026-01-19",
+            "summary": "",
+            "highlights": [
+                "Started the company"
+            ]
+        },
+        {
             "name": "CONETWORK",
             "position": "Soporte Técnico",
             "startDate": "2024-04-01",
@@ -44,16 +54,6 @@
             "startDate": "2024-01-02",
             "endDate": "2024-03-30",
             "summary": "Encargado de diseñar Landing page atractivas y optimizadas para los distintos tipos de clientes, usando tecnologías clásicas como HTML, Css, JavaScript, pero también nuevas tecnologías como Astro, Tailwind css, logré atraer potenciales clientes , ahorrando tiempo y dinero sin perder calidad.",
-            "highlights": [
-                "Started the company"
-            ]
-        },
-        {
-            "name": "BIG SPIN PERÚ ",
-            "position": "Atención al cliente",
-            "startDate": "2021-03-13",
-            "endDate": "2023-09-30",
-            "summary": "Encargado de Atención al cliente, responsable de caja, cotización del producto, encargado de generar boletas y facturas y brindar ideas para el crecimiento del negocio.",
             "highlights": [
                 "Started the company"
             ]
